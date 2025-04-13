@@ -1,9 +1,9 @@
 ## 🎥 Demo Video
 
-**[▶️ Watch the 1-minute demo](media/demo.mp4)**
+**[▶️ Watch the 1-minute demo](assets/media/demo.mp4)**
 ## 🖼️ Screenshot
 
-![App Screenshot](media/TODO_APP.png)
+![App Screenshot](assets/media/TODO_APP.png)
 
 
 
