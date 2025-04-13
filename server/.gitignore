@@ -1,0 +1,51 @@
+# Node modules (do not track dependencies)
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables (sensitive info like DB passwords, API keys)
+.env
+.env.*  # in case you use .env.dev, .env.prod etc.
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Build output (if any)
+dist/
+build/
+
+# Coverage reports
+coverage/
+
+# Temporary files
+tmp/
+temp/
+
+# PM2 logs (if using PM2 for process management)
+pids/
+*.pid
+*.seed
+
+# OS generated files
+*.bak
+
+# MongoDB dump (if using mongodump)
+dump/
+
+# Optional - Ignore SQLite files if used
+*.sqlite
+*.sqlite3
+
+# Optional - ignore Prisma files
+.prisma/
