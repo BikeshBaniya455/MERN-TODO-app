@@ -1,9 +1,9 @@
 ## 🎥 Demo Video
 
-**[▶️ Watch the 1-minute demo](src/assets/media/demo.mp4)**
+**[▶️ Watch the 1-minute demo](client/vite-project/src/assets/media/demo.mp4)**
 ## 🖼️ Screenshot
 
-![App Screenshot](src/assets/media/TODO_APP.png)
+![App Screenshot](client/vite-project/src/assets/media/TODO_APP.png)
 
 
 
